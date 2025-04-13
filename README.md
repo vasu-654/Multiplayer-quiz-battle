@@ -99,7 +99,6 @@ The player with the highest cumulative score wins!
 
 ### 👨‍💻 Client Playing
 ![Client1 Playing](Screenshots/Client1.png)
-![Client1 Playing](Screenshots/Client1.png)
-
+![Client1 Playing](Screenshots/Client2.png)
 ### 🏆 Winner Announcement
 ![Winner Announcement](Screenshots/ResultAnnouncement.png)
