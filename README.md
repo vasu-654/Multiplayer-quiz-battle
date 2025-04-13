@@ -95,10 +95,11 @@ The player with the highest cumulative score wins!
 ## 🖼️ Screenshots
 
 ### 🖥️ Server Running
-![Server Running](.images/ServerInitialized.png)
+![Server Running](images/ServerInitialized.png)
 
 ### 👨‍💻 Client Playing
-![Client1 Playing](.images/Client1.png)
-![Client1 Playing](.images/Client2.png)
+![Client1 Playing](images/Client1.png)
+![Client2 Playing](images/Client2.png)
+
 ### 🏆 Winner Announcement
-![Winner Announcement](.images/ResultAnnouncement.png)
+![Winner Announcement](images/ResultAnnouncement.png)
