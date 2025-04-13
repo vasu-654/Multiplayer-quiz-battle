@@ -92,3 +92,14 @@ Score = weightage × (1 / time taken)
 
 The player with the highest cumulative score wins!
 
+## 🖼️ Screenshots
+
+### 🖥️ Server Running
+![Server Running](Screenshots/ServerInitialized.png)
+
+### 👨‍💻 Client Playing
+![Client1 Playing](Screenshots/Client1.png)
+![Client1 Playing](Screenshots/Client2.png)
+
+### 🏆 Winner Announcement
+![Winner Announcement](Screenshots/ResultAnnouncement.png)
